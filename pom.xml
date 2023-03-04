@@ -8,10 +8,10 @@
         <version>3.0.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ecom.product-service</groupId>
-    <artifactId>product-service</artifactId>
+    <groupId>com.ecom</groupId>
+    <artifactId>product</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>product-service</name>
+    <name>product</name>
     <description>product microservice</description>
 
     <properties>

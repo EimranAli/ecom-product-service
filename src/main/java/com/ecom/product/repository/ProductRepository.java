@@ -1,6 +1,6 @@
-package com.ecommerce.application.repository;
+package com.ecom.product.repository;
 
-import com.ecommerce.application.entity.Product;
+import com.ecom.product.entity.Product;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

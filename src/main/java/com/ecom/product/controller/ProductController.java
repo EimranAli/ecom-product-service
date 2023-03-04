@@ -1,9 +1,9 @@
-package com.ecommerce.application.controller;
+package com.ecom.product.controller;
 
-import com.ecommerce.application.dto.ProductDTO;
-import com.ecommerce.application.entity.Product;
-import com.ecommerce.application.service.ProductService;
-import com.ecommerce.application.utilities.EntityDTOConverter;
+import com.ecom.product.dto.ProductDTO;
+import com.ecom.product.entity.Product;
+import com.ecom.product.service.ProductService;
+import com.ecom.product.utilities.EntityDTOConverter;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

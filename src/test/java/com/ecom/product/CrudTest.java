@@ -1,7 +1,7 @@
-package com.ecommerce.application;
+package com.ecom.product;
 
-import com.ecommerce.application.controller.ProductController;
-import com.ecommerce.application.dto.ProductDTO;
+import com.ecom.product.controller.ProductController;
+import com.ecom.product.dto.ProductDTO;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.Gson;
 import org.junit.jupiter.api.Test;
